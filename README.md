@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VIVIANKERUBO
+- 👋 Hi, I’m @Vivian
 - 👀 I’m interested in Image processing, Machine learning, Deep learning computer vision
 
 
